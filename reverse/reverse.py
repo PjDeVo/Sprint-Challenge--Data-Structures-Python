@@ -43,7 +43,7 @@ class LinkedList:
         # next is next node 
         # head = currentsnext 
         # current = next
-        
+
         if node and node.get_next():
             current = node
             while current:
